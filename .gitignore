@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/fuaye
+fuaye.so
+fuaye.dylib
+fuaye.dll
+fuaye.a
+fuaye.lib
+fuaye-test-*
+*.exe
+*.o
+*.obj
+*.lst
