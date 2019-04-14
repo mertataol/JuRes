@@ -13,5 +13,5 @@ void main()
 
 void hello(HTTPServerRequest req, HTTPServerResponse res)
 {
-	res.writeBody("Merhaba Fuaye!");
+	res.writeBody("Testing local server");
 }
